@@ -18,4 +18,4 @@
 - No more extra money on running and maintaining data centers.
 - always good to have a backup cloud just incase the main server goes down you still have the information.
 4) What questions remain in your mind after reading this section?
-How much did Saas increase the value of applications that have been made over the years or decreased its value in sales.
+- How much did Saas increase the value of applications that have been made over the years or decreased its value in sales.
